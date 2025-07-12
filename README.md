@@ -59,3 +59,12 @@ The dataset contains information such as:
    ```bash
    git clone https://github.com/mangal-singh001/Blinkit_Data_Analysis.git
    cd Blinkit_Data_Analysis
+
+
+🔗 Connect with Me
+
+GitHub: mangal-singh001
+LinkedIn: [https://www.linkedin.com/in/mangal-singh123/]
+
+
+✍️ Feel free to fork this repo or suggest improvements!
